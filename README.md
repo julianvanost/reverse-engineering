@@ -20,7 +20,7 @@ Public Folder: constains all code that will be shown in the front end and any lo
 Routes Folder: contains all CRUD calls to the MySQL database
   reoutes/api-routes.js - contains CRUD calls associated with creating, getting, and logging out a new user.
   routes/html-routes.js - contains all routes associated with redircted the user between the login.html, members.html, and signup.html and checks login status
-
+ 
 Package.Json: 
   - package.json contains all information for NPM and for node run, build, deployment, author data, and other metadata. By running 'npm i' in the terminal of a project that contains a package.json already, NPM will download all necessary files associated with the project. 
 
